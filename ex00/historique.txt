@@ -1,0 +1,500 @@
+    7  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB\n
+    8  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB\n
+    9  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB\n
+   10  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB\n
+   11  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB\n
+   12  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB\n
+   13  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB
+   14  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB\n
+   15  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en_GB\n
+   16  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr-FR
+   17  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=en-GB
+   18  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   19  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   20  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR
+   21  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   22  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR
+   23  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   24  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   25  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR
+   26  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   27  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   28  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR
+   29  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR
+   30  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   31  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR
+   32  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   33  open /Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app --args --locale=fr_FR\n
+   34  brew install git
+   35  $ brew install git
+   36  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   37   brew install git
+   38  ip config/dns
+   39  $ brew install git
+   40  brew install git
+   41  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   42  touch toto.txt
+   43  cd test
+   44  mkdir Test
+   45  cd Test
+   46  touch toto.txt
+   47  git init
+   48  git --version
+   49  ls
+   50  ls-la
+   51  ls -la
+   52  cd Public/
+   53  ls
+   54  mkdir Samuel
+   55  ls
+   56  cd Samuel/
+   57  git init
+   58  git add index.html
+   59  git add helloWorld
+   60  mkdir
+   61  ESSCA-git
+   62  mkdir ESSCA-git
+   63  git ini
+   64  init
+   65  mkdir ESSCA-git
+   66  cd desktop
+   67  essca.html
+   68  cd ESSCA-git
+   69  cd ESSCA-git
+   70  mkdir ESSCA-git
+   71  cd ESSCA-git
+   72  touch index.html
+   73  pwd
+   74  ls
+   75  cd desktop
+   76  mkdir Rendu 
+   77  cd rendu
+   78  ls
+   79  cd ..
+   80  ls
+   81  cd rendu
+   82  git clone https://github.com/Samy69000/HelloWorld.git
+   83  cd ..
+   84  cd ..
+   85  pwd
+   86  cd ..
+   87  cd ..
+   88  pwd
+   89  cd ESSCA-git
+   90  pwd
+   91  ls
+   92  cd ..
+   93  pwd
+   94  ls
+   95  cd usr
+   96  pwd
+   97  ls
+   98  pwd
+   99  ls
+  100  pwd
+  101  ls
+  102  cd Desktop
+  103  cd ESSCA-git
+  104  git clone https://github.com/Samy69000/Piscine00.git
+  105  pwd
+  106  git status
+  107  pwd
+  108  cd desktop
+  109  pwd
+  110  mkdir piscine essca
+  111  cd piscine
+  112  git https://github.com/IamNiters/Piscine00.git
+  113  git init https://github.com/IamNiters/Piscine00.git
+  114  git clone https://github.com/IamNiters/Piscine00.git
+  115  pwd
+  116  cd dekstop
+  117  cd Desktop
+  118  cd piscine
+  119  pwd
+  120  code.
+  121  code .
+  122  pwd
+  123  cd samy
+  124  cd Desktop
+  125  mkdir exoprof
+  126  cd exoprof
+  127  pwd
+  128  git clone https://github.com/EpitaphStudLearning/IntroToMediaQueries.git
+  129  cd exoprof
+  130  pwd
+  131  cd samy
+  132  pwd
+  133  cd Desktop
+  134  mkdir piscinemax
+  135  cd piscinemax
+  136  git clone https://github.com/maxxbld/EXO1-piscine.git
+  137  /Volumes/Adobe\ Zii\ 2.2.1\ \ for\ Adobe\ CC15\ CC17/Open\ Gatekeeper\ friendly ; exit;
+  138  git init
+  139  git add .
+  140  pwd
+  141  cd Desktop
+  142  cd piscine1semestre1-KULUNKIAN
+  143  git init
+  144  git config --global
+  145  git config --global user.name "samy"
+  146  git config --global user.email "kulunkian.s@gmail.com"
+  147  git commit -m "piscine fini"
+  148  git push
+  149  git add EX00
+  150  git add EX01
+  151  git commit -m "piscine fini"
+  152  git push 
+  153  git add https://github.com/Samy69000/Piscine00
+  154  git pull 
+  155  git add EX01
+  156  git add EX00
+  157  git commit -m "chore: EX00 EX01"
+  158  git push https://github.com/Samy69000/piscine1semestre1-KULUNKIAN
+  159  pwd
+  160  cd Desktop
+  161  cd GitHub
+  162  mkdir javascript1
+  163  pwd
+  164  cd piscine1semestre1-KULUNKIAN
+  165  .code
+  166  .code
+  167  code .
+  168  pwd
+  169  cd Deskto
+  170  cd Desktop
+  171  cd GitHub
+  172  cd questesresponsive
+  173  cd quetesresponsive
+  174  cd quetes responsive
+  175  cd quetesresponsive
+  176  code.
+  177  code .
+  178  cd Deskotp
+  179  cd GitHub
+  180  cd quetesresponsive
+  181  git clone https://github.com/EpitaphStudLearning/IntroToMediaQueries.git
+  182  code .
+  183  pwd
+  184  cd Desktop
+  185  cd GitHub
+  186  cd quetesresponsive
+  187  pwd
+  188  cd .
+  189  pwd
+  190  cd..
+  191  cd.
+  192  cd.
+  193  pwd
+  194  cd Desktop
+  195  cd Github
+  196  pwd
+  197  git clone https://github.com/EpitaphStudLearning/IntroToMediaQueries.git
+  198  node.js
+  199  '/Users/samy/Downloads/node-v16.18.0.pkg'
+  200  node-v
+  201  node -v
+  202  node
+  203  console.log(i)
+  204  ls
+  205  pwd
+  206  man ls
+  207  pwd
+  208  cd
+  209  ls
+  210  ls music 
+  211  cd music
+  212  clear
+  213  mkdir sch
+  214  cd sch
+  215  touch totoclear
+  216  clear
+  217  cd..
+  218  cd..
+  219  pwd
+  220  cd...
+  221  cd.
+  222  clear
+  223  mkdir shellpiscine
+  224  cd shellpiscine
+  225  git clone https://github.com/Samy69000/s_KULUNKIAN_SHELL_PISCINE
+  226  mkdir ex00
+  227  ls
+  228  cd ex00
+  229  mkdir cover 
+  230  cd cover
+  231  mkdir constructeur
+  232  cd constructeur
+  233  mkdir sony
+  234  mkdir nintendo
+  235  mkdir microsoft
+  236  mkdir sega
+  237  pwd
+  238  cd constructeur
+  239  cd
+  240  clear
+  241  cd sch
+  242  pwd
+  243  ls
+  244  cd desktop
+  245  cd sch
+  246  ls
+  247  cd shellpiscine
+  248  ls
+  249  cd s_KULUNKIAN_SHELL_PISCINE
+  250  ls
+  251  cd ex00
+  252  ls
+  253  cd cover
+  254  ls
+  255  cd constructeur
+  256  ls
+  257  cd microsoft
+  258  ls
+  259  mkdir consoles
+  260  cd consoles
+  261  mkdir xbox xbox360
+  262  ls
+  263  xbox360
+  264  cd xbox360
+  265  mkdir call_of_duty_4
+  266  mkdir call_of_duty_3
+  267  ls
+  268  cd..
+  269  cd-
+  270  cd ..
+  271  cd ..
+  272  ls
+  273  cd ..
+  274  ls
+  275  cd nintendo
+  276  cd ..
+  277  cd ..
+  278  cd ..
+  279  cd cover
+  280  ls
+  281  cd constructeur
+  282  ls
+  283  cd microsoft
+  284  ls
+  285  cd consoles
+  286  ls
+  287  cd xbox
+  288  ls
+  289  mkdir dead_to_rights Halo_combat_evolved
+  290  cd ..
+  291  cd ..
+  292  cd ..
+  293  ls
+  294  cd sega
+  295  mkdir consoles 
+  296  cd consoles
+  297  mkdir dreamcast
+  298  cd dreamscast
+  299  mkdir dreamcast
+  300  cd dreamcast
+  301  mkdir jet_set_radio Shenmue
+  302  cd ..
+  303  cd ..
+  304  cd ..
+  305  cd ..
+  306  cd constructeur 
+  307  cd sony
+  308  mkdir consoles consoles_portables
+  309  cd consoles 
+  310  mkdir gamecube
+  311  cd gamecube
+  312  mkdir super_mario_sunshine
+  313  cd ..
+  314  cd ..
+  315  ls
+  316  cd ..
+  317  ls
+  318  cd nintendo 
+  319  cd consoles
+  320  cd ..
+  321  ls
+  322  cd consoles_portables
+  323  ls
+  324  mkdir game_boy
+  325  cd game_boy
+  326  mkdir pokemon_red pokemon_blue
+  327  cd ..
+  328  cd ..
+  329  cd ..
+  330  cd ..
+  331  cd constructeur
+  332  cd sony
+  333  ls
+  334  mkdir consoles 
+  335  cd consoles
+  336  mkdir ps4 ps5
+  337  cd ps4
+  338  mkdir fifa14 uncharted
+  339  cd ..
+  340  cd ps5
+  341  mkdir farcry6
+  342  git push
+  343  pwd
+  344  ls
+  345  cd ..
+  346  cd ..
+  347  cd ..
+  348  cd ..
+  349  cd ..
+  350  ls
+  351  cd covers_2
+  352  mv dc_jetgrindradio_10.jpg ../cover/constructeur/sega/consoles/dreamcast/jet_set_radio
+  353  cd..
+  354  cd ..
+  355  cd cover_2
+  356  cd covers_2
+  357  mv* dc_shenmue_eu.jpg dc_shenmueii_5.jpg ../cover/constructeur/sega/consoles/dreamcast/Shenmue
+  358  mv* dc_shenmueii_5.jpg dc_shenmue_eu.jpg ../cover/constructeur/sega/consoles/dreamcast/Shenmue
+  359  mv * dc_shenmue_eu.jpg dc_shenmueii_5.jpg ../cover/constructeur/sega/consoles/dreamcast/Shenmue
+  360  cd ..
+  361  cd cover
+  362  cd constructeur/sega/consoles/dreamcast/Shenmue
+  363  mv dc_jetsetradio_eu_front.jpg ../shenmue
+  364  js
+  365  ls
+  366  mv dc_jetsetradio_eu_front.jpg ../
+  367  ls
+  368  cd ..
+  369  mv dc_jetsetradio_eu_front.jpg ./jet_set_radio
+  370  touch historique.txt
+  371  history -200 > historique.txt
+  372  mv historique.txt ../dreamcast
+  373  mv historique.txt ../dreamcast
+  374  ls
+  375  mv historique.txt ../
+  376  mv historique.txt ../
+  377  cd ..
+  378  mv historique.txt ../
+  379  cd ..
+  380  mv historique.txt ../
+  381  cd ..
+  382  mv historique.txt ../
+  383  cd ..
+  384  mv historique.txt ../
+  385  cd ..
+  386  cd ..
+  387  git push
+  388  cd ..
+  389  git push
+  390  cd s_KULUNKIAN_SHELL_PISCINE
+  391  git push
+  392  cd ..
+  393  cd s_KULUNKIAN_SHELL_PISCINE
+  394  mkdir ex01
+  395  cd ex0
+  396  cd ex01
+  397  touch bonjour.sh
+  398  cd bonjour.sh
+  399  cat bonjour.sh
+  400  vim bonjour.sh
+  401  js
+  402  ls
+  403  cd des
+  404  cd desktop
+  405  sch
+  406  cd sch
+  407  cd shellpiscine
+  408  cd ex01
+  409  ls
+  410  cd s_KULUNKIAN_SHELL_PISCINE
+  411  cd ex01
+  412  vim bonjour.sh
+  413  cd ..
+  414  cd ex00
+  415  cd cover
+  416  cd constructeur/sega/consoles/dreamcast/shenmue
+  417  mv* gb_pokemonblue_eu.jpg gameboy.pokmonred.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg gbc_pokemongold.jpg ../shenmue/
+  418  mv gameboy.pokmonred.jpg ../shenmue../dreamcast
+  419  ls
+  420  mv gameboy.pokmonred.jpg../
+  421  mv gameboy.pokmonred.jpg ../
+  422  cd..
+  423  cd..
+  424  cd ..
+  425  mv gameboy.pokmonred.jpg ../
+  426  cd ..
+  427  mv gameboy.pokmonred.jpg ../
+  428  cd ..
+  429  mv gameboy.pokmonred.jpg ../
+  430  cd ..
+  431  mv gameboy.pokmonred.jpg nintendo/consoles_portables/game_boy
+  432  ls
+  433  cd nintendo/consoles_portables
+  434  cd game_boy
+  435  mv gameboy.pokmonred.jpg pokemon_red
+  436  ls
+  437  cd ..
+  438  cd ..
+  439  cd ..
+  440  mv gb_pokemonblue_eu.jpg nintendo/consoles_portables/game_boy/pokemon_blue
+  441  ls
+  442  cd nintendo/consoles_portables/game_boy
+  443  mkdir pokemon_green
+  444  mkdir pokemon_yellow
+  445  mkdir pokemon_gold
+  446  cd ..
+  447  cd ..
+  448  cd ..
+  449  cd ..
+  450  cd constructeur
+  451  mv gb_pokemongreen_3.jpg nintendo/consoles_portables/game_boy/pokemon_green
+  452  mv gb_pokemongreen_3.jpg nintendo/consoles_portables/game_boy/pokemon_yellow
+  453  mv gb_pokemonyellow_au.jpg nintendo/consoles_portables/game_boy/pokemon_yellow
+  454  mv gbc_pokemongold.jpg nintendo/consoles_portables/game_boy/pokemon_gold
+  455  mv gc_supermariosunshine.jpg nintendo/consoles/gamecube/super_mario_sunshine
+  456  cd nintendo/consoles/gamecube
+  457  mkdir mario_kart
+  458  cd ..
+  459  cd ..
+  460  cd ..
+  461  mv gc_mariokartdoubledash.jpg nintendo/consoles/gamecube/mario_kart
+  462  mv playstation_5.farcry6.jpg sony/consoles/ps5/farcry6
+  463  mv ps4_fifa14.jpg sony/consoles/ps4/fifa14
+  464  mv playstation_4.unchartedthelostlegacy.jpg sony/consoles/ps4/uncharted
+  465  cd sony/consoles/ps4
+  466  mkdir watchdogs2 assassin_creed
+  467  cd ..
+  468  cd ps5
+  469  mkdir RE
+  470  mkdir assassin_creed
+  471  cd ..
+  472  cd ..
+  473  cd ..
+  474  mv playstation_4.assassinscreedodyssey.jpg sony/consoles/ps4/assassin_creed
+  475  mv playstation_4.watchdogs2.jpg sony/consoles/ps4/watchdogs2
+  476  mv playstation_5.assassinscreedvalhalla.jpg sony/consoles/ps5/assassin_creed
+  477  mv playstation_5.residentevilvillage_.jpg sony/consoles/ps5/RE
+  478  mv x360_callfoduty3.jpg microsoft/consoles/xbox360/call_of_duty_3
+  479  mv x360_callofduty4.jpg microsoft/consoles/xbox360/call_of_duty_4
+  480  cd microsoft/consoles/xbox360
+  481  mkdir call_of_duty_2 call_of_duty_BO fableIII
+  482  cd ..
+  483  cd ..
+  484  cd ..
+  485  mv x360_callofduty2.jpg microsoft/consoles/xbox360/call_of_duty_2
+  486  mv x360_callofdutyblackopsii.jpg microsoft/consoles/xbox360/call_of_duty_BO
+  487  mv xbox_360.fableiii.jpg microsoft/consoles/xbox360/fableIII
+  488  ls
+  489  cd microsoft
+  490  cd consoles/xbox
+  491  mkdir dead_or_alive djf jet_set_radio nfs
+  492  cd ..
+  493  cd ..
+  494  cd ..
+  495  mv xbox_deadoralive3.jpg microsoft/consoles/xbox/dead_or_alive
+  496  mv xbox_deadtorights.jpg microsoft/consoles/xbox/dead_to_rights
+  497  mv xbox_
+  498  mv xbox_defjamfightforny.jpg microsoft/consoles/xbox/djf
+  499  mv xbox_halo2.jpg microsoft/consoles/xbox/Halo_combat_evolved
+  500  mv xbox_halo_2.jpg microsoft/consoles/xbox/Halo_combat_evolved
+  501  mv xbox_jetsetradiofuture_2.jpg microsoft/consoles/xbox/jet_set_radio
+  502  mv xbox_needforspeedunderground2.jpg microsoft/consoles/xbox/nfs
+  503  cd ..
+  504  cd ..
+  505  cd ..
+  506  cd ex00
